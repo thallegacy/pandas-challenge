@@ -5,15 +5,12 @@
 #### Initial work
 
 - Import Pandas
-
-- Load the Datasets (Remember to Change These)
-
+- Load the Datasets 
 - Read School and Student Data File and store into Pandas Dataframes
-
 - Combine the data into a single dataset. 
 
 
- 
+
 
 #### District Summary
 
